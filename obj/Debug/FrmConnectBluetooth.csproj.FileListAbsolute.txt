@@ -1,0 +1,14 @@
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\bin\Debug\FrmConnectBluetooth.exe.config
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\bin\Debug\FrmConnectBluetooth.exe
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\bin\Debug\FrmConnectBluetooth.pdb
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\obj\Debug\FrmConnectBluetooth.csproj.AssemblyReference.cache
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\obj\Debug\FrmConnectBluetooth.FrmConnectBluetooth.resources
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\obj\Debug\FrmConnectBluetooth.Properties.Resources.resources
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\obj\Debug\FrmConnectBluetooth.csproj.GenerateResource.cache
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\obj\Debug\FrmConnectBluetooth.csproj.CoreCompileInputs.cache
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\obj\Debug\FrmConnectBluetooth.exe
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\obj\Debug\FrmConnectBluetooth.pdb
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\bin\Debug\InTheHand.Net.Bluetooth.dll
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\bin\Debug\InTheHand.Net.Bluetooth.xml
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\obj\Debug\FrmConnectBluetooth.csproj.CopyComplete
+C:\Users\Tam\Desktop\BlueToothScan\FrmConnectBluetooth\obj\Debug\FrmConnectBluetooth.Lib.BluetoothDevicesItem.resources
